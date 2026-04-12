@@ -59,4 +59,4 @@ See also the [example script](scripts/render_example_image.py).
 
 ## License
 
-Released under the MIT License.
+Released under the [MIT License](LICENSE).
